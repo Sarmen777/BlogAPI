@@ -9,8 +9,8 @@ Running the Project
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<Sarmen777>/<BlogAPI>.git
-cd <BlogAPI>
+git clone https://github.com/Sarmen777/BlogAPI.git
+cd BlogAPI
 
 2. **Configure database connection in appsettings.json**
 "ConnectionStrings": {
